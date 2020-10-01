@@ -1,2 +1,2 @@
 # JSXintro
-Created with CodeSandbox
+Created with CodeSandbox.
